@@ -36,16 +36,22 @@ body {
     background: transparent;
     border-radius: 4px;
 }
+.main-content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15%;
+}
 /*Bottom grid*/
 
 .bottom-grid {
     display: flex;
     flex-direction: row;
+    width: 100%;
 }
 
-footer {
-    color: #1f94d1;
+.footer-nav {
+    display: flex;
+    flex-direction: row;
     background-color: white;
-    text-decoration: none;
-    padding-top: 200px;
+    margin-bottom: 0;
   }
