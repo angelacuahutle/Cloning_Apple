@@ -78,6 +78,7 @@ summary,
 time,
 mark,
 audio,
+
 video {
   margin: 0;
   padding: 0;
@@ -86,6 +87,24 @@ video {
   font-size: 100%;
   vertical-align: baseline;
 }
+.navbar ul {
+  position: relative;
+  width: 980px;
+  text-align: left;
+  border-radius: 4px;
+  box-shadow: rgb (0, green, blue);
+  background-clip: initial;
+}
+.navbar-items li {
+  display: flex;
+  flex-direction: column;
+  float: left;
+  height: 36px;
+  width: 845px;
+  display: table;
+  background-image: none;
+  background-color:transparent;
+
 
 /* HTML5 display-role reset for older browsers */
 article,
