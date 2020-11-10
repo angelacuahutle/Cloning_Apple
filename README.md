@@ -16,7 +16,7 @@ We made a clone of the Cloning_Apple page. The page works best on a 1366x768 res
 
 ## Live Demo
 
-[Live Demo Link](https://angelacuahutle.github.io/Cloning_Apple/.)
+[Live Demo Link](https://angelacuahutle.github.io/Cloning_Apple/)
 
 👤 **Angela Cuahutle**
 
