@@ -1,6 +1,6 @@
 .main {
   width: 1500px;
-  background-image: url(/assets/main-img.jpg);
+  background-image: url(./assets/main-img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0 auto;
@@ -23,7 +23,7 @@
   width: 80%;
   margin-left: 10%;
   background-color: transparent;
-  background-image: url(/assets/header-img.png);
+  background-image: url(./assets/header-img.png);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 4px;
