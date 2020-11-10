@@ -16,7 +16,7 @@ We made a clone of the Cloning_Apple page. The page works best on a 1366x768 res
 
 ## Live Demo
 
-[Live Demo Link](https://dsunilk.github.io/NYTimes-Clone/.)
+[Live Demo Link](https://angelacuahutle.github.io/Cloning_Apple/.)
 
 👤 **Angela Cuahutle**
 
@@ -34,7 +34,7 @@ We made a clone of the Cloning_Apple page. The page works best on a 1366x768 res
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/DsunilK/NYTimes-Clone/issues).
+Feel free to check the [issues page](https://github.com/angelacuahutle/Cloning_Apple/issues).
 
 ## Show your support
 
