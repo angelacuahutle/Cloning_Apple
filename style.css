@@ -1,0 +1,140 @@
+.main {
+    width: 1500px;
+    background-image:url(/assets/main-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+.background-color {
+    background-color: white;
+}
+
+.header {
+    padding-top: 100px;
+}
+
+.navbar-items {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 36px;
+    width: 80%;
+    margin-left: 10%;
+    background-color: transparent;
+    background-image: url(/assets/header-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 4px;
+}
+.navbar-items a {
+    flex: 1;
+    text-align: center;
+    border-right: 1px solid rgb(36, 35, 35);
+    color: white;
+    font-style: 'Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+    background-color: #555;
+    background-image: linear-gradient(#777 50%, #555 50%);
+    cursor: pointer;
+}
+
+.logo-img {
+    height: 20px;
+    width: 20px;
+}
+.search-bar {
+    display: flex;
+    justify-content: flex-start;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.search-icon-white {
+    margin-right: 50px;
+}
+.search-box {
+    background: transparent;
+    border-radius: 10px;
+    margin-left: -80px;
+}
+.main-content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.main-text1 {
+    margin-left: 130px; 
+}
+
+.main-text3 {
+    margin-top: -10px;
+    margin-left: 180px;
+    height: auto;
+    width: 50%;
+}
+/*Bottom grid*/
+
+.bottom-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    height: auto;
+    justify-items: stretch;
+    border: 2px solid white;
+    grid-gap: 2px;
+    background-color: white;
+    cursor: pointer;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    margin-bottom: 0;
+    font-size: xx-small;
+    padding: 1% 10% 1% 10%;
+    color: #6e6e6e;
+    font-size: .8334em;
+  }
+
+  .footer-nav a {
+      color: #08c;
+      cursor: pointer;
+  }
+
+  .footer-text1{
+    padding-right: 0.3em;
+  }
+
+  .footer-text2 {
+    border-left: 1px solid #ccc;
+    padding-left: 0.6em;
+  }
+
+.footer-right {
+      margin-top: 13px;
+  }
+
+.footer-right a {
+    border-right: 1px solid #ccc;
+    padding-right: 0.6em;
+    padding-left: 0.3em ;
+}
+
+.footer-flag {
+    height: 20px;
+    width: 20px;
+    margin-left: -40px;
+    margin-top: 10px;
+}
